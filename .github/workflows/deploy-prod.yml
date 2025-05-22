@@ -13,7 +13,6 @@ env:
   DOCKER_IMAGE_NAME: giorgiosaud-azure-ttt
   AZURE_WEBAPP_NAME: giorgiosaud-ttt-app
   ###############################################
-
 jobs:
   build:
     runs-on: ubuntu-latest
